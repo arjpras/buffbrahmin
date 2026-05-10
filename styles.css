@@ -127,13 +127,23 @@ p { color: var(--color-muted); }
   color: var(--color-charcoal);
 }
 
-.brand img {
+.brand-logo {
   width: 80px;
   height: 80px;
   border-radius: 16px;
-  object-fit: contain;
   background: var(--color-cream);
-  padding: 6px;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.brand-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transform: scale(1.32);
+  transform-origin: center;
 }
 
 .nav-links {
