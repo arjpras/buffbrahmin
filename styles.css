@@ -792,6 +792,12 @@ section { padding: 96px 0; }
 
 .compare tr:nth-child(even) td { background: rgba(254, 247, 237, 0.4); }
 
+.compare .x {
+  color: var(--color-soft);
+  opacity: 0.55;
+  font-size: 0.9rem;
+}
+
 /* ---------- Guarantee ---------- */
 
 .guarantee-card {
