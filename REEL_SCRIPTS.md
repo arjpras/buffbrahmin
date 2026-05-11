@@ -6,7 +6,7 @@ A working bank of Reel concepts written for the DesiFit Method audience: South A
 - First person. Direct. Short sentences.
 - One myth or one tip per Reel. Don't overload.
 - Hook in the first 2 seconds or scroll wins.
-- End with a save/share trigger ("save this for daawat season") or a soft CTA ("DM me 'DESI'").
+- End with a save/share trigger ("save this for shaadi season") or a soft CTA ("DM me 'DESI'").
 - No corporate-speak. Sound like you'd sound to a cousin.
 
 **Posting cadence (recommendation):**
@@ -99,26 +99,26 @@ A working bank of Reel concepts written for the DesiFit Method audience: South A
 ## Category 2: POV Scenarios
 *Relatable. Comedic. Best with trending audio.*
 
-### Reel 4: "POV: trying to hit protein at a daawat"
+### Reel 4: "POV: trying to hit protein at a family gathering"
 
 **Format:** Skit with text overlays · 15s · use a trending Bollywood audio if it fits the vibe
 
 **Scene 1: Setup (0:00–0:03)**
-- Visual: You at a daawat (party). Table full of food.
-- Text overlay: "POV: 6 bowls of pulao and 12 fried things."
+- Visual: You at a family gathering. Table full of food.
+- Text overlay: "POV: 6 bowls of pulao, sambar, and 12 fried things."
 
 **Scene 2: The hunt (0:03–0:10)**
 - Visual: You scanning the table with intense focus.
-- Quick cuts: pulao (X), samosa (X), butter chicken (✓), dal (X), paneer tikka (✓), kheer (X), tandoori chicken (✓), gulab jamun (X).
+- Quick cuts: pulao (X), samosa (X), tandoori chicken (✓), paneer tikka (✓), dal (X), sambar (✓), curd rice (✓ pair with protein), gulab jamun (X), bonda/vada (X).
 - Text overlay on each item: red X or green check.
 
 **Scene 3: The plate (0:10–0:15)**
-- Visual: You sit down with a plate of tandoori, paneer tikka, butter chicken, and a small scoop of rice.
-- Text overlay: "30g protein, no regrets."
+- Visual: You sit down with a plate of tandoori, paneer tikka, sambar, curd rice, and a small scoop of biryani.
+- Text overlay: "35g protein, no regrets."
 - Closing line/text: "You can do this without being weird about it."
 
 **Caption:**
-> The daawat doesn't beat you, your strategy does. Save this for shaadi season 💍
+> The buffet doesn't beat you, your strategy does. Save this for shaadi season 💍
 
 ---
 
@@ -412,6 +412,113 @@ A working bank of Reel concepts written for the DesiFit Method audience: South A
 
 ---
 
+## Category 7: South Indian Spotlight
+*The Desi fitness internet talks endlessly about dal and roti. Idli, dosa, and sambar are an entirely different conversation, and this is where you can corner the niche.*
+
+### Reel 16: "Sambar is doing the protein work you think dal is doing"
+
+**Format:** Talking head + side-by-side comparison · 25s
+
+**Scene 1: Hook (0:00–0:04)**
+- Visual: Two bowls side by side, dal on the left, sambar on the right.
+- Text overlay: "Sambar > Dal for protein. Hear me out."
+
+**Scene 2: The math (0:04–0:18)**
+- VO: *"Plain dal has about 7 to 9 grams of protein per cup. Sambar, especially Tamil-style sambar, is built on toor dal plus vegetables like drumstick, brinjal, and tomato. Same toor dal base, more volume, more fiber, more micronutrients. Per spoon of solids, you're getting comparable protein with way more satiety."*
+- Text overlays:
+  - "Dal: ~8g protein, 1 ingredient"
+  - "Sambar: ~7g protein + fiber-rich veg + spices"
+  - "Winner: depends on what you pair it with"
+
+**Scene 3: The fix (0:18–0:25)**
+- VO: *"Either way, the move is the same. Add a yogurt or paneer side to push the meal above 25g protein. Don't rely on a single bowl to do all the work."*
+- Closing text: "It's not dal vs sambar. It's pairing or losing."
+
+**Caption:**
+> The South Indian breakfast underdog. Save this for the next time someone tells you sambar is "just liquid." 🍲
+
+---
+
+### Reel 17: "POV: Amma made fresh idlis at 7am"
+
+**Format:** POV skit · 15s · trending audio
+
+**Scene 1: Setup (0:00–0:04)**
+- Visual: You half-asleep, walking into the kitchen in gym clothes.
+- Action: Amma slides a plate of 8 fresh idlis with sambar and coconut chutney in front of you.
+- Text overlay: "Cutting phase. Day 23."
+
+**Scene 2: The look (0:04–0:09)**
+- Visual: You stare at the idlis. Stare at your protein shake on the counter. Stare back at the idlis.
+- Audio: trending "internal conflict" sound.
+- Text overlay: "Macros are made up. Idlis are real."
+
+**Scene 3: The solution (0:09–0:15)**
+- Visual: You grab 4 idlis (not 8), pour sambar generously, crack 2 boiled eggs on the side, and add a scoop of Greek yogurt.
+- Text overlay: "4 idlis + sambar + 2 eggs + yogurt = 32g protein."
+- Closing text: "Negotiate, don't restrict."
+
+**Caption:**
+> The breakfast meal-prep nobody talks about. Save for Sunday morning ammi-fights 🥹
+
+**Why it works:** Universally relatable for Tamil, Malayali, Kannada, and Telugu households. Shows the math without lecturing.
+
+---
+
+### Reel 18: "Idli vs Dosa: the macro showdown"
+
+**Format:** Cheat sheet · pure visual + text · 18s · upbeat trending audio
+
+**Scene 1: Hook (0:00–0:03)**
+- Visual: Split screen, 4 idlis on left, 1 dosa on right.
+- Text overlay: "Idli vs Dosa. Which one's actually leaner?"
+
+**Scene 2: The breakdown (0:03–0:14)**
+- Left side overlays (idli):
+  - "4 idlis: ~280 cal"
+  - "Protein: ~9g"
+  - "Fat: ~1g (steamed)"
+- Right side overlays (dosa):
+  - "1 plain dosa: ~170 cal"
+  - "Protein: ~5g"
+  - "Fat: ~6g (oil/ghee)"
+- VO (light, conversational): *"Idli is the cleaner option per gram of protein. Dosa wins on flavor but gets oily fast. Both are good. Choose based on the goal."*
+
+**Scene 3: The verdict (0:14–0:18)**
+- Text overlay: "Cut: 4 idlis. Maintain: 1–2 dosa. Bulk: paneer dosa, no contest."
+- Closing card: "Save for your next breakfast decision."
+
+**Caption:**
+> South Indian breakfast tier list, no debate. Save this. Send to your roommate. 🥞
+
+---
+
+### Reel 19: "The dosa filling that doubled my breakfast protein"
+
+**Format:** Quick educational with cooking B-roll · 20s
+
+**Scene 1: Hook (0:00–0:03)**
+- Visual: You at the stove, batter on the tava.
+- Text overlay: "Plain dosa: 5g protein. Watch what one swap does."
+
+**Scene 2: The build (0:03–0:15)**
+- B-roll: you cracking 2 eggs onto the dosa, spreading them, adding grated paneer, folding it over.
+- VO: *"Two eggs on the dosa is 12 grams of protein. Add 50 grams of grated paneer and you're at 19 grams in the filling alone. Pair with sambar and yogurt and one meal is 35 grams."*
+- Text overlays appear with each addition:
+  - "+ 2 eggs = 12g"
+  - "+ paneer = 19g (in dosa)"
+  - "+ sambar + yogurt = 35g total"
+
+**Scene 3: Close (0:15–0:20)**
+- Visual: You bite into the finished dosa.
+- Closing text: "Don't ditch the dosa. Stuff it."
+- Caption pinned: "Yes, paneer dosa is the answer."
+
+**Caption:**
+> The 5-minute South Indian breakfast hack that fixed my macros. Save this for Sunday mornings 🍳
+
+---
+
 ## Engagement boosters (use after posting)
 
 After a Reel hits 2 hours of posting, repost to your story with an interactive sticker:
@@ -456,17 +563,19 @@ Example:
 
 ---
 
-## Quick-shoot batch list (next 4 weeks)
+## Quick-shoot batch list (next 5 weeks)
 
 | Week | Reel | Format | Effort |
 |---|---|---|---|
 | 1 | Dal Myth (Reel 1) | Talking head | Medium |
 | 1 | 5 Desi Swaps (Reel 10) | Visual quick cuts | Low |
-| 2 | POV Daawat (Reel 4) | Skit | Medium |
+| 2 | POV Family Gathering (Reel 4) | Skit | Medium |
 | 2 | Skinny-fat epidemic (Reel 7) | Talking head | Medium |
 | 3 | Trail Mix Trap (Reel 12) | Skit with friend | Medium |
-| 3 | Indian restaurant guide (Reel 11) | Visual quick cuts | Low |
-| 4 | What 5 years taught me (Reel 14) | Talking head | High |
-| 4 | POV Naani's ladoos (Reel 5) | Skit | Low |
+| 3 | Idli vs Dosa showdown (Reel 18) | Visual quick cuts | Low |
+| 4 | Sambar protein truth (Reel 16) | Talking head | Medium |
+| 4 | POV Amma's idlis (Reel 17) | Skit | Low |
+| 5 | What 5 years taught me (Reel 14) | Talking head | High |
+| 5 | Paneer dosa hack (Reel 19) | Cooking B-roll | Medium |
 
-Save this list to your phone. Batch-shoot in 2-day blocks to keep momentum.
+Save this list to your phone. Batch-shoot in 2-day blocks to keep momentum. Rotate North and South Indian themes weekly so no one region gets over-served.
