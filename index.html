@@ -13,6 +13,19 @@
 </head>
 <body>
 
+  <!-- Hidden forms for Netlify Forms detection -->
+  <form name="starter-kit" data-netlify="true" netlify-honeypot="bot-field" hidden>
+    <input type="text" name="name" />
+    <input type="email" name="email" />
+    <input type="text" name="source" />
+    <input type="text" name="bot-field" />
+  </form>
+  <form name="newsletter" data-netlify="true" netlify-honeypot="bot-field" hidden>
+    <input type="email" name="email" />
+    <input type="text" name="source" />
+    <input type="text" name="bot-field" />
+  </form>
+
   <header class="site-header">
     <nav class="nav" aria-label="Primary">
       <a href="index.html" class="brand">

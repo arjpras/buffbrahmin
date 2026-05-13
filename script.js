@@ -122,22 +122,37 @@ function buildStarterModal() {
 }
 
 function notifyOwner(name, email) {
-  const subject = encodeURIComponent('New DesiFit Starter Kit lead');
-  const body = encodeURIComponent(
-    `New Starter Kit download:\n\nName: ${name}\nEmail: ${email}\nTime: ${new Date().toLocaleString()}\n`
-  );
-  const link = document.createElement('a');
-  link.href = `mailto:arjpras.12@gmail.com?subject=${subject}&body=${body}`;
-  link.style.display = 'none';
-  document.body.appendChild(link);
-  link.click();
-  document.body.removeChild(link);
-
+  // Backup: keep lead in localStorage no matter what
   try {
     const leads = JSON.parse(localStorage.getItem('desifit_leads') || '[]');
     leads.push({ name, email, ts: Date.now() });
     localStorage.setItem('desifit_leads', JSON.stringify(leads));
   } catch (_) { /* storage unavailable */ }
+
+  // Primary: Netlify Forms (only works on the deployed Netlify site)
+  const body = new URLSearchParams();
+  body.append('form-name', 'starter-kit');
+  body.append('name', name);
+  body.append('email', email);
+  body.append('source', window.location.pathname);
+
+  fetch('/', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: body.toString()
+  }).catch(() => {
+    // Fallback for local dev: open mail client with lead info
+    const subject = encodeURIComponent('New DesiFit Starter Kit lead');
+    const mailBody = encodeURIComponent(
+      `New Starter Kit download:\n\nName: ${name}\nEmail: ${email}\nTime: ${new Date().toLocaleString()}\n`
+    );
+    const link = document.createElement('a');
+    link.href = `mailto:arjpras.12@gmail.com?subject=${subject}&body=${mailBody}`;
+    link.style.display = 'none';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  });
 }
 
 function triggerStarterDownload() {
@@ -184,7 +199,7 @@ document.addEventListener('click', (e) => {
   }
 });
 
-// --- Newsletter form (no backend; just feedback) ---
+// --- Newsletter form (Netlify Forms; mailto fallback for local dev) ---
 const newsletterForm = document.getElementById('newsletterForm');
 if (newsletterForm) {
   newsletterForm.addEventListener('submit', (e) => {
@@ -196,6 +211,18 @@ if (newsletterForm) {
       return;
     }
     input.style.outline = '';
+
+    const body = new URLSearchParams();
+    body.append('form-name', 'newsletter');
+    body.append('email', input.value);
+    body.append('source', window.location.pathname);
+
+    fetch('/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: body.toString()
+    }).catch(() => { /* dev-mode silent fail; UI still confirms */ });
+
     btn.textContent = 'Subscribed ✓';
     btn.disabled = true;
     btn.style.background = 'var(--color-success)';
