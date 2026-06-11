@@ -244,6 +244,47 @@ A working bank of Reel concepts written for the DesiFit Method audience: South A
 
 ---
 
+### Reel 20: "Why your gains stopped at week 3"
+
+**Format:** Talking head + text overlays · 40s · serious tone, slight intensity
+**Source:** DesiFit Starter Kit · Part 2 · Progressive Overload Phase
+
+**Scene 1: Hook (0:00–0:05)**
+- Visual: You in gym clothes, leaning on a bench mid-workout.
+- Text overlay: *"If your gains stopped after week 3, here's why."*
+- VO: *"You went hard for 3 weeks at the gym. Then nothing. Same body. Same numbers on the bar. I'll tell you exactly what you did wrong."*
+
+**Scene 2: The diagnosis (0:05–0:20)**
+- Visual: Cut to you pointing at the camera, then quick B-roll of a dumbbell rack.
+- VO: *"You picked a weight that felt 'okay' on day one and stayed there for 3 weeks. That's not training. That's just exercise. Your muscles only grow when you give them a reason to grow. That reason is called progressive overload. Almost nobody our age is actually doing it."*
+- Text overlay flashes: *"Same weight = same body."*
+
+**Scene 3: The framework (0:20–0:35)**
+- Visual: Clean background, on-screen text builds step by step.
+- VO: *"Here's the rule. Pick a weight you can hit for 10 reps with clean form. Next session, get 11. Then 12. Once you can do 12 reps with good form across all 3 sets, add 5 pounds and reset to 10. That's the loop. That's the whole game."*
+- Text overlays appear one at a time:
+  - *"Step 1: 10 reps · clean form"*
+  - *"Step 2: Add 1 rep next session"*
+  - *"Step 3: Hit 12 → add 5 lbs → restart at 10"*
+- Visual: Quick B-roll clip of you doing a controlled dumbbell row.
+
+**Scene 4: Mic drop (0:35–0:40)**
+- VO: *"And if your reps drop below 8, the weight is too heavy. Drop it. Form first, always."*
+- Closing text overlay: *"10 → 12 → +5 → repeat."*
+
+**Caption:**
+> 90% of Desi gym-goers stall in month 2 because nobody told them what progressive overload is. The 10-12-+5 rule is the only thing standing between you and actual muscle. Save this Reel. Tape it to your water bottle.
+> DM 'DESI' for the full 6-week beginner split in the free Starter Kit.
+
+**Hashtags:**
+`#buffbrahmin #desifitness #progressiveoverload #beginnerlifting #brownmuscle #southasianlifting #vegetarianmuscle #howtolift`
+
+**Why it works:** Specific, not vague. Most fitness reels say "lift heavier." This gives an actual rule people can apply tomorrow. Diagnostic hook ("if your gains stopped...") catches everyone who's hit a plateau, which is most lifters in months 2-3. Saveable, and funnels into the Starter Kit naturally.
+
+**Shoot notes:** One location. Two clips: talking-head wide + B-roll of a controlled row. Tone is teacher, not seller. Re-shoot the hook 5 times. Pick the strongest take. The hook decides whether the rest gets watched.
+
+---
+
 ## Category 4: Cheat Sheets / Food Swaps
 *Visual, saveable, useful. Almost zero talking.*
 

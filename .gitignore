@@ -223,3 +223,6 @@ __marimo__/
 # Large source videos (kept locally only)
 assets/**/*.mov
 assets/**/*.MOV
+
+# Local Netlify folder
+.netlify
